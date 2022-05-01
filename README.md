@@ -1,2 +1,2 @@
 # ArduVolume-Dial
-A Rotaryencoder used to controlle Volume, Skip tracesa and pause paly content
+A Rotaryencoder used to controlle Volume, Skip tracks and pause paly content
